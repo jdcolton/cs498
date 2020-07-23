@@ -1,0 +1,551 @@
+contcod,country,region,year,bin_year,group,RRinc,RRmean
+AGO,Angola,Sub-Saharan Africa,1995,1993,1,174,806
+AGO,Angola,Sub-Saharan Africa,2000,1998,1,45,755
+ALB,Albania,"Russia, C. Asia, SE Europe",1996,1998,1,687,1817
+ALB,Albania,"Russia, C. Asia, SE Europe",2002,2003,1,644,1630
+ALB,Albania,"Russia, C. Asia, SE Europe",2008,2008,1,736,2086
+ARG,Argentina,L. America & Carib.,1987,1988,1,1107,6397
+ARG,Argentina,L. America & Carib.,1993,1993,1,741,4843
+ARG,Argentina,L. America & Carib.,1998,1998,1,485,4532
+ARG,Argentina,L. America & Carib.,2003,2003,1,248,3219
+ARG,Argentina,L. America & Carib.,2008,2008,1,861,6473
+ARM,Armenia,"Russia, C. Asia, SE Europe",1998,1998,1,298,955
+ARM,Armenia,"Russia, C. Asia, SE Europe",2003,2003,1,368,1008
+ARM,Armenia,"Russia, C. Asia, SE Europe",2008,2008,1,569,1522
+AUS,Australia,Mature economies,1989,1988,1,2890,11678
+AUS,Australia,Mature economies,1994,1993,1,1792,11173
+AUS,Australia,Mature economies,1999,1998,1,3422,12063
+AUS,Australia,Mature economies,2003,2003,1,3017,12602
+AUT,Austria,Mature economies,1987,1988,1,6137,14056
+AUT,Austria,Mature economies,1994,1993,1,4249,14495
+AUT,Austria,Mature economies,2000,1998,1,4876,14766
+AUT,Austria,Mature economies,2005,2003,1,5794,16544
+AUT,Austria,Mature economies,2008,2008,1,5535,14826
+AZE,Azerbaijan,"Russia, C. Asia, SE Europe",1995,1993,1,288,1047
+AZE,Azerbaijan,"Russia, C. Asia, SE Europe",2001,2003,1,434,1347
+AZE,Azerbaijan,"Russia, C. Asia, SE Europe",2008,2008,1,828,2413
+BDI,Burundi,Sub-Saharan Africa,1992,1993,1,107,313
+BDI,Burundi,Sub-Saharan Africa,1998,1998,1,53,292
+BDI,Burundi,Sub-Saharan Africa,2006,2008,1,144,348
+BEL,Belgium,Mature economies,1988,1988,1,3753,9653
+BEL,Belgium,Mature economies,1995,1993,1,4307,12412
+BEL,Belgium,Mature economies,2000,1998,1,4990,14810
+BEL,Belgium,Mature economies,2005,2003,1,5016,14333
+BEL,Belgium,Mature economies,2008,2008,1,4546,13062
+BEN,Benin,Sub-Saharan Africa,2003,2003,1,190,633
+BFA,Burkina Faso,Sub-Saharan Africa,1994,1993,1,110,490
+BFA,Burkina Faso,Sub-Saharan Africa,1998,1998,1,121,500
+BFA,Burkina Faso,Sub-Saharan Africa,2003,2003,1,169,562
+BFA,Burkina Faso,Sub-Saharan Africa,2009,2008,1,193,674
+BGD,Bangladesh,Other Asia,1988,1988,1,185,444
+BGD,Bangladesh,Other Asia,1995,1993,1,197,503
+BGD,Bangladesh,Other Asia,2000,1998,1,203,519
+BGD,Bangladesh,Other Asia,2005,2003,1,231,579
+BGD,Bangladesh,Other Asia,2010,2008,1,247,620
+BGR,Bulgaria,Mature economies,1989,1988,1,2829,6203
+BGR,Bulgaria,Mature economies,1994,1993,1,1572,3581
+BGR,Bulgaria,Mature economies,1997,1998,1,842,1864
+BGR,Bulgaria,Mature economies,2003,2003,1,856,2473
+BGR,Bulgaria,Mature economies,2007,2008,1,1077,3284
+BIH,Bosnia and Herzegovina,"Russia, C. Asia, SE Europe",2001,2003,1,1607,4230
+BIH,Bosnia and Herzegovina,"Russia, C. Asia, SE Europe",2007,2008,1,1543,5695
+BLR,Belarus,"Russia, C. Asia, SE Europe",1988,1988,1,1637,3662
+BLR,Belarus,"Russia, C. Asia, SE Europe",1993,1993,1,1194,2452
+BLR,Belarus,"Russia, C. Asia, SE Europe",1998,1998,1,730,2167
+BLR,Belarus,"Russia, C. Asia, SE Europe",2002,2003,1,1107,3042
+BLZ,Belize,L. America & Carib.,1993,1993,1,242,2915
+BLZ,Belize,L. America & Carib.,1998,1998,1,253,2297
+BOL,Bolivia,L. America & Carib.,1990,1988,1,461,1989
+BOL,Bolivia,L. America & Carib.,1993,1993,1,302,2435
+BOL,Bolivia,L. America & Carib.,1997,1998,1,121,2564
+BOL,Bolivia,L. America & Carib.,2002,2003,1,62,2202
+BOL,Bolivia,L. America & Carib.,2008,2008,1,116,2572
+BRA,Brazil,L. America & Carib.,1988,1988,1,196,3069
+BRA,Brazil,L. America & Carib.,1993,1993,1,143,2654
+BRA,Brazil,L. America & Carib.,1998,1998,1,204,3643
+BRA,Brazil,L. America & Carib.,2003,2003,1,192,3374
+BRA,Brazil,L. America & Carib.,2008,2008,1,346,4269
+BRB,Barbados,L. America & Carib.,1996,1998,1,3478,14330
+BTN,Bhutan,Other Asia,2003,2003,1,263,1143
+BTN,Bhutan,Other Asia,2007,2008,1,381,1362
+BWA,Botswana,Sub-Saharan Africa,1993,1993,1,196,1533
+CAF,Central African Republic,Sub-Saharan Africa,1992,1993,1,21,297
+CAF,Central African Republic,Sub-Saharan Africa,2003,2003,1,105,501
+CAF,Central African Republic,Sub-Saharan Africa,2008,2008,1,75,615
+CAN,Canada,Mature economies,1987,1988,1,3832,14401
+CAN,Canada,Mature economies,1994,1993,1,4059,14694
+CAN,Canada,Mature economies,2000,1998,1,4047,15393
+CAN,Canada,Mature economies,2004,2003,1,4195,16556
+CAN,Canada,Mature economies,2008,2008,1,4005,21807
+CHE,Switzerland,Mature economies,1994,1993,1,3843,17952
+CHE,Switzerland,Mature economies,2000,1998,1,5134,17833
+CHE,Switzerland,Mature economies,2004,2003,1,4874,17776
+CHE,Switzerland,Mature economies,2008,2008,1,,22084
+CHL,Chile,L. America & Carib.,1987,1988,1,344,2939
+CHL,Chile,L. America & Carib.,1992,1993,1,531,3738
+CHL,Chile,L. America & Carib.,1998,1998,1,609,4869
+CHL,Chile,L. America & Carib.,2003,2003,1,677,4939
+CHL,Chile,L. America & Carib.,2009,2008,1,906,5924
+CHN,China,China,1987,1988,1,161,493
+CHN,China,China,1993,1993,1,140,589
+CHN,China,China,1998,1998,1,200,853
+CHN,China,China,2001,2003,1,166,995
+CHN,China,China,2007,2008,1,288,2088
+CIV,Cote d'Ivoire,Sub-Saharan Africa,1988,1988,1,336,1190
+CIV,Cote d'Ivoire,Sub-Saharan Africa,1993,1993,1,313,1043
+CIV,Cote d'Ivoire,Sub-Saharan Africa,1998,1998,1,246,1063
+CIV,Cote d'Ivoire,Sub-Saharan Africa,2002,2003,1,238,1213
+CIV,Cote d'Ivoire,Sub-Saharan Africa,2008,2008,1,235,1052
+CMR,Cameroon,Sub-Saharan Africa,1996,1998,1,278,981
+CMR,Cameroon,Sub-Saharan Africa,2001,2003,1,368,1338
+CMR,Cameroon,Sub-Saharan Africa,2007,2008,1,403,1386
+COD,"Congo, Dem. Rep.",Sub-Saharan Africa,2005,2003,1,60,261
+COD,"Congo, Dem. Rep.",Sub-Saharan Africa,2008,2008,1,38,179
+COG,"Congo, Rep.",Sub-Saharan Africa,2005,2003,1,135,649
+COL,Colombia,L. America & Carib.,1988,1988,1,340,2785
+COL,Colombia,L. America & Carib.,1992,1993,1,339,2870
+COL,Colombia,L. America & Carib.,1999,1998,1,86,2443
+COL,Colombia,L. America & Carib.,2003,2003,1,68,2003
+COL,Colombia,L. America & Carib.,2008,2008,1,196,3019
+COM,Comoros,Sub-Saharan Africa,1995,1993,1,118,823
+COM,Comoros,Sub-Saharan Africa,2004,2003,1,103,1133
+CPV,Cape Verde,Sub-Saharan Africa,2001,2003,1,274,1455
+CRI,Costa Rica,L. America & Carib.,1989,1988,1,147,2403
+CRI,Costa Rica,L. America & Carib.,1993,1993,1,292,2892
+CRI,Costa Rica,L. America & Carib.,1998,1998,1,480,3502
+CRI,Costa Rica,L. America & Carib.,2003,2003,1,377,3809
+CRI,Costa Rica,L. America & Carib.,2008,2008,1,645,4512
+CYP,Cyprus,Mature economies,1990,1988,1,2225,6221
+CYP,Cyprus,Mature economies,1996,1998,1,1992,6307
+CYP,Cyprus,Mature economies,2008,2008,1,3325,8299
+CZE,Czech Republic,Mature economies,1988,1988,1,3113,5863
+CZE,Czech Republic,Mature economies,1993,1993,1,2386,5143
+CZE,Czech Republic,Mature economies,1996,1998,1,2568,5944
+CZE,Czech Republic,Mature economies,2002,2003,1,2544,6484
+CZE,Czech Republic,Mature economies,2008,2008,1,2663,6679
+DEU,Germany,Mature economies,1989,1988,1,5114,13913
+DEU,Germany,Mature economies,1994,1993,1,4288,13347
+DEU,Germany,Mature economies,1998,1998,1,3857,13757
+DEU,Germany,Mature economies,2005,2003,1,5370,16340
+DEU,Germany,Mature economies,2008,2008,1,5086,15288
+DJI,Djibouti,M. East & N. Africa,2002,2003,1,272,1122
+DNK,Denmark,Mature economies,1987,1988,1,4024,12610
+DNK,Denmark,Mature economies,1992,1993,1,4119,12325
+DNK,Denmark,Mature economies,1997,1998,1,3245,12385
+DNK,Denmark,Mature economies,2004,2003,1,5674,14526
+DNK,Denmark,Mature economies,2008,2008,1,5633,14047
+DOM,Dominican Republic,L. America & Carib.,1986,1988,1,233,1687
+DOM,Dominican Republic,L. America & Carib.,1992,1993,1,440,2732
+DOM,Dominican Republic,L. America & Carib.,1997,1998,1,434,3311
+DOM,Dominican Republic,L. America & Carib.,2003,2003,1,376,2831
+DOM,Dominican Republic,L. America & Carib.,2008,2008,1,507,2984
+DZA,Algeria,M. East & N. Africa,1988,1988,1,387,1512
+DZA,Algeria,M. East & N. Africa,1995,1993,1,414,1441
+ECU,Ecuador,L. America & Carib.,1987,1988,1,235,2284
+ECU,Ecuador,L. America & Carib.,1994,1993,1,164,2184
+ECU,Ecuador,L. America & Carib.,1998,1998,1,147,1980
+ECU,Ecuador,L. America & Carib.,2003,2003,1,217,2464
+ECU,Ecuador,L. America & Carib.,2008,2008,1,348,3054
+EGY,"Egypt, Arab Rep.",M. East & N. Africa,1990,1988,1,466,1211
+EGY,"Egypt, Arab Rep.",M. East & N. Africa,1995,1993,1,491,1174
+EGY,"Egypt, Arab Rep.",M. East & N. Africa,1999,1998,1,522,1346
+EGY,"Egypt, Arab Rep.",M. East & N. Africa,2004,2003,1,520,1350
+EGY,"Egypt, Arab Rep.",M. East & N. Africa,2008,2008,1,542,1368
+ESP,Spain,Mature economies,1990,1988,1,1989,7030
+ESP,Spain,Mature economies,1995,1993,1,1606,8706
+ESP,Spain,Mature economies,2000,1998,1,2816,10976
+ESP,Spain,Mature economies,2005,2003,1,2303,10210
+ESP,Spain,Mature economies,2008,2008,1,2966,10725
+EST,Estonia,Mature economies,1988,1988,1,2188,5210
+EST,Estonia,Mature economies,1993,1993,1,822,3287
+EST,Estonia,Mature economies,1998,1998,1,1052,3481
+EST,Estonia,Mature economies,2008,2008,1,1939,6151
+ETH,Ethiopia,Sub-Saharan Africa,1995,1993,1,162,544
+ETH,Ethiopia,Sub-Saharan Africa,1999,1998,1,198,513
+ETH,Ethiopia,Sub-Saharan Africa,2005,2003,1,250,617
+FIN,Finland,Mature economies,1987,1988,1,4095,9268
+FIN,Finland,Mature economies,1991,1993,1,4667,10592
+FIN,Finland,Mature economies,1998,1998,1,4408,10807
+FIN,Finland,Mature economies,2004,2003,1,4972,12873
+FIN,Finland,Mature economies,2008,2008,1,4874,12838
+FJI,Fiji,Other Asia,2002,2003,1,166,1092
+FJI,Fiji,Other Asia,2008,2008,1,447,1692
+FRA,France,Mature economies,1989,1988,1,2437,10674
+FRA,France,Mature economies,1995,1993,1,3819,13778
+FRA,France,Mature economies,2000,1998,1,4018,12450
+FRA,France,Mature economies,2005,2003,1,4635,14615
+FRA,France,Mature economies,2008,2008,1,5138,16229
+FSM,"Micronesia, Fed. Sts.",Other Asia,2000,1998,1,70,1710
+GAB,Gabon,Sub-Saharan Africa,2005,2003,1,465,1803
+GBR,United Kingdom,Mature economies,1986,1988,1,1866,8978
+GBR,United Kingdom,Mature economies,1991,1993,1,2710,11087
+GBR,United Kingdom,Mature economies,1998,1998,1,3057,12425
+GBR,United Kingdom,Mature economies,2004,2003,1,3943,16729
+GBR,United Kingdom,Mature economies,2008,2008,1,5425,19693
+GEO,Georgia,"Russia, C. Asia, SE Europe",1998,1998,1,364,1637
+GEO,Georgia,"Russia, C. Asia, SE Europe",2003,2003,1,256,1215
+GEO,Georgia,"Russia, C. Asia, SE Europe",2008,2008,1,271,1357
+GHA,Ghana,Sub-Saharan Africa,1988,1988,1,166,578
+GHA,Ghana,Sub-Saharan Africa,1991,1993,1,163,584
+GHA,Ghana,Sub-Saharan Africa,1998,1998,1,168,752
+GHA,Ghana,Sub-Saharan Africa,2005,2003,1,195,963
+GIN,Guinea,Sub-Saharan Africa,1994,1993,1,109,501
+GIN,Guinea,Sub-Saharan Africa,2003,2003,1,142,556
+GIN,Guinea,Sub-Saharan Africa,2007,2008,1,181,682
+GMB,"Gambia, The",Sub-Saharan Africa,1992,1993,1,37,245
+GMB,"Gambia, The",Sub-Saharan Africa,1998,1998,1,82,505
+GMB,"Gambia, The",Sub-Saharan Africa,2003,2003,1,192,983
+GNB,Guinea-Bissau,Sub-Saharan Africa,1993,1993,1,142,673
+GNB,Guinea-Bissau,Sub-Saharan Africa,2002,2003,1,177,581
+GRC,Greece,Mature economies,1988,1988,1,2634,9085
+GRC,Greece,Mature economies,1993,1993,1,2903,9774
+GRC,Greece,Mature economies,2000,1998,1,2055,8326
+GRC,Greece,Mature economies,2005,2003,1,2361,9707
+GRC,Greece,Mature economies,2008,2008,1,2645,9658
+GTM,Guatemala,L. America & Carib.,1989,1988,1,82,1203
+GTM,Guatemala,L. America & Carib.,1998,1998,1,215,2110
+GTM,Guatemala,L. America & Carib.,2003,2003,1,97,1984
+GTM,Guatemala,L. America & Carib.,2006,2008,1,254,2399
+GUY,Guyana,L. America & Carib.,1992,1993,1,400,2513
+GUY,Guyana,L. America & Carib.,1998,1998,1,288,2162
+HKG,"Hong Kong SAR, China",Mature economies,1991,1993,1,2271,11965
+HKG,"Hong Kong SAR, China",Mature economies,1998,1998,1,2153,10954
+HND,Honduras,L. America & Carib.,1989,1988,1,119,1142
+HND,Honduras,L. America & Carib.,1993,1993,1,177,1473
+HND,Honduras,L. America & Carib.,1998,1998,1,90,1701
+HND,Honduras,L. America & Carib.,2003,2003,1,116,1805
+HND,Honduras,L. America & Carib.,2008,2008,1,63,2506
+HRV,Croatia,"Russia, C. Asia, SE Europe",1998,1998,1,2438,6156
+HRV,Croatia,"Russia, C. Asia, SE Europe",2004,2003,1,3179,8592
+HRV,Croatia,"Russia, C. Asia, SE Europe",2008,2008,1,3064,9201
+HTI,Haiti,L. America & Carib.,2001,2003,1,44,666
+HUN,Hungary,Mature economies,1989,1988,1,1243,2684
+HUN,Hungary,Mature economies,1993,1993,1,1711,4173
+HUN,Hungary,Mature economies,1999,1998,1,1581,4005
+HUN,Hungary,Mature economies,2005,2003,1,1635,5332
+HUN,Hungary,Mature economies,2008,2008,1,1761,4847
+IDN,Indonesia,Other Asia,1987,1988,1,176,433
+IDN,Indonesia,Other Asia,1993,1993,1,221,523
+IDN,Indonesia,Other Asia,1999,1998,1,243,571
+IDN,Indonesia,Other Asia,2005,2003,1,332,905
+IDN,Indonesia,Other Asia,2009,2008,1,432,1303
+IND,India,India,1987,1988,1,210,538
+IND,India,India,1993,1993,1,221,560
+IND,India,India,1997,1998,1,190,537
+IND,India,India,2004,2003,1,241,642
+IND,India,India,2007,2008,1,283,741
+IRL,Ireland,Mature economies,1987,1988,1,1189,5676
+IRL,Ireland,Mature economies,1994,1993,1,1585,6270
+IRL,Ireland,Mature economies,1999,1998,1,2453,12362
+IRL,Ireland,Mature economies,2005,2003,1,4310,13479
+IRL,Ireland,Mature economies,2008,2008,1,4741,13779
+IRN,"Iran, Islamic Rep.",M. East & N. Africa,1990,1988,1,500,2429
+IRN,"Iran, Islamic Rep.",M. East & N. Africa,1994,1993,1,625,2803
+IRN,"Iran, Islamic Rep.",M. East & N. Africa,1998,1998,1,626,3023
+IRN,"Iran, Islamic Rep.",M. East & N. Africa,2005,2003,1,621,2372
+IRQ,Iraq,M. East & N. Africa,2006,2008,1,497,1312
+ISL,Iceland,Mature economies,2004,2003,1,5119,13836
+ISL,Iceland,Mature economies,2008,2008,1,9482,24273
+ISR,Israel,Mature economies,1986,1988,1,1614,6303
+ISR,Israel,Mature economies,1992,1993,1,2090,7496
+ISR,Israel,Mature economies,1997,1998,1,1892,7816
+ISR,Israel,Mature economies,2001,2003,1,1901,8858
+ISR,Israel,Mature economies,2008,2008,1,1441,9114
+ITA,Italy,Mature economies,1986,1988,1,2279,7943
+ITA,Italy,Mature economies,1991,1993,1,2782,9414
+ITA,Italy,Mature economies,1998,1998,1,2188,11542
+ITA,Italy,Mature economies,2004,2003,1,2423,10944
+ITA,Italy,Mature economies,2008,2008,1,3361,11983
+JAM,Jamaica,L. America & Carib.,1988,1988,1,492,2298
+JAM,Jamaica,L. America & Carib.,1993,1993,1,409,1503
+JAM,Jamaica,L. America & Carib.,1999,1998,1,701,3088
+JAM,Jamaica,L. America & Carib.,2004,2003,1,754,3352
+JOR,Jordan,M. East & N. Africa,1986,1988,1,835,2658
+JOR,Jordan,M. East & N. Africa,1992,1993,1,531,2090
+JOR,Jordan,M. East & N. Africa,1997,1998,1,595,1819
+JOR,Jordan,M. East & N. Africa,2002,2003,1,605,2107
+JOR,Jordan,M. East & N. Africa,2008,2008,1,848,2394
+JPN,Japan,Mature economies,1988,1988,1,5929,12709
+JPN,Japan,Mature economies,1993,1993,1,6670,14596
+JPN,Japan,Mature economies,1998,1998,1,6823,15035
+JPN,Japan,Mature economies,2002,2003,1,6986,15621
+JPN,Japan,Mature economies,2008,2008,1,3192,11903
+KAZ,Kazakhstan,"Russia, C. Asia, SE Europe",1988,1988,1,1627,3998
+KAZ,Kazakhstan,"Russia, C. Asia, SE Europe",1993,1993,1,473,1540
+KAZ,Kazakhstan,"Russia, C. Asia, SE Europe",1996,1998,1,440,1641
+KAZ,Kazakhstan,"Russia, C. Asia, SE Europe",2003,2003,1,598,1679
+KEN,Kenya,Sub-Saharan Africa,1992,1993,1,138,1113
+KEN,Kenya,Sub-Saharan Africa,1997,1998,1,292,1169
+KEN,Kenya,Sub-Saharan Africa,2007,2008,1,112,344
+KGZ,Kyrgyz Republic,"Russia, C. Asia, SE Europe",1993,1993,1,147,2073
+KGZ,Kyrgyz Republic,"Russia, C. Asia, SE Europe",1998,1998,1,238,781
+KGZ,Kyrgyz Republic,"Russia, C. Asia, SE Europe",2004,2003,1,372,1103
+KGZ,Kyrgyz Republic,"Russia, C. Asia, SE Europe",2008,2008,1,409,1610
+KHM,Cambodia,Other Asia,1994,1993,1,249,678
+KHM,Cambodia,Other Asia,1997,1998,1,172,586
+KHM,Cambodia,Other Asia,2004,2003,1,247,805
+KHM,Cambodia,Other Asia,2008,2008,1,313,937
+KOR,"Korea, Rep.",Mature economies,1988,1988,1,1977,7028
+KOR,"Korea, Rep.",Mature economies,1993,1993,1,2699,9814
+KOR,"Korea, Rep.",Mature economies,1999,1998,1,2701,9359
+KOR,"Korea, Rep.",Mature economies,2003,2003,1,2344,11132
+KOR,"Korea, Rep.",Mature economies,2008,2008,1,2433,12399
+KOS,Kosovo,"Russia, C. Asia, SE Europe",2008,2008,1,626,1912
+LAO,Lao PDR,Other Asia,1992,1993,1,216,520
+LAO,Lao PDR,Other Asia,1997,1998,1,200,589
+LAO,Lao PDR,Other Asia,2002,2003,1,232,613
+LAO,Lao PDR,Other Asia,2008,2008,1,252,755
+LBR,Liberia,Sub-Saharan Africa,2007,2008,1,77,326
+LCA,St. Lucia,L. America & Carib.,1995,1993,1,238,1183
+LKA,Sri Lanka,Other Asia,1990,1988,1,343,916
+LKA,Sri Lanka,Other Asia,1995,1993,1,355,996
+LKA,Sri Lanka,Other Asia,1999,1998,1,316,897
+LKA,Sri Lanka,Other Asia,2002,2003,1,357,1201
+LKA,Sri Lanka,Other Asia,2006,2008,1,436,1428
+LSO,Lesotho,Sub-Saharan Africa,1986,1988,1,99,951
+LSO,Lesotho,Sub-Saharan Africa,1993,1993,1,76,748
+LSO,Lesotho,Sub-Saharan Africa,2002,2003,1,86,869
+LTU,Lithuania,Mature economies,1988,1988,1,1723,3813
+LTU,Lithuania,Mature economies,1993,1993,1,470,1498
+LTU,Lithuania,Mature economies,2005,2003,1,709,3549
+LTU,Lithuania,Mature economies,2008,2008,1,1480,5584
+LUX,Luxembourg,Mature economies,1994,1993,1,7364,18156
+LUX,Luxembourg,Mature economies,1998,1998,1,6431,19902
+LUX,Luxembourg,Mature economies,2004,2003,1,7484,23329
+LUX,Luxembourg,Mature economies,2008,2008,1,7720,21592
+LVA,Latvia,Mature economies,1988,1988,1,3265,7321
+LVA,Latvia,Mature economies,1993,1993,1,1001,2356
+LVA,Latvia,Mature economies,1997,1998,1,717,2767
+LVA,Latvia,Mature economies,2002,2003,1,1003,3722
+LVA,Latvia,Mature economies,2008,2008,1,1364,5684
+MAR,Morocco,M. East & N. Africa,1991,1993,1,510,1857
+MAR,Morocco,M. East & N. Africa,1998,1998,1,430,1557
+MAR,Morocco,M. East & N. Africa,2001,2003,1,421,1601
+MAR,Morocco,M. East & N. Africa,2007,2008,1,514,1934
+MDA,Moldova,"Russia, C. Asia, SE Europe",1998,1998,1,220,917
+MDA,Moldova,"Russia, C. Asia, SE Europe",2003,2003,1,424,1317
+MDA,Moldova,"Russia, C. Asia, SE Europe",2008,2008,1,660,2192
+MDG,Madagascar,Sub-Saharan Africa,1993,1993,1,85,436
+MDG,Madagascar,Sub-Saharan Africa,1999,1998,1,77,316
+MDG,Madagascar,Sub-Saharan Africa,2005,2003,1,141,538
+MDG,Madagascar,Sub-Saharan Africa,2010,2008,1,74,336
+MDV,Maldives,Other Asia,1998,1998,1,93,2460
+MDV,Maldives,Other Asia,2004,2003,1,574,2118
+MEX,Mexico,L. America & Carib.,1989,1988,1,439,2728
+MEX,Mexico,L. America & Carib.,1994,1993,1,389,3501
+MEX,Mexico,L. America & Carib.,1998,1998,1,184,2747
+MEX,Mexico,L. America & Carib.,2004,2003,1,430,3499
+MEX,Mexico,L. America & Carib.,2008,2008,1,448,3704
+MKD,"Macedonia, FYR","Russia, C. Asia, SE Europe",1998,1998,1,751,2305
+MKD,"Macedonia, FYR","Russia, C. Asia, SE Europe",2003,2003,1,804,3322
+MKD,"Macedonia, FYR","Russia, C. Asia, SE Europe",2008,2008,1,788,3533
+MLI,Mali,Sub-Saharan Africa,1994,1993,1,56,287
+MLI,Mali,Sub-Saharan Africa,2001,2003,1,128,499
+MLI,Mali,Sub-Saharan Africa,2006,2008,1,161,590
+MNE,Montenegro,"Russia, C. Asia, SE Europe",2005,2003,1,1168,3235
+MNE,Montenegro,"Russia, C. Asia, SE Europe",2008,2008,1,1538,4307
+MNG,Mongolia,Other Asia,2002,2003,1,324,1083
+MNG,Mongolia,Other Asia,2007,2008,1,611,2021
+MOZ,Mozambique,Sub-Saharan Africa,1996,1998,1,80,360
+MOZ,Mozambique,Sub-Saharan Africa,2002,2003,1,93,439
+MOZ,Mozambique,Sub-Saharan Africa,2007,2008,1,108,558
+MRT,Mauritania,Sub-Saharan Africa,1987,1988,1,104,732
+MRT,Mauritania,Sub-Saharan Africa,1993,1993,1,174,850
+MRT,Mauritania,Sub-Saharan Africa,2000,1998,1,269,1060
+MRT,Mauritania,Sub-Saharan Africa,2004,2003,1,245,965
+MRT,Mauritania,Sub-Saharan Africa,2008,2008,1,246,1012
+MWI,Malawi,Sub-Saharan Africa,1997,1998,1,66,354
+MWI,Malawi,Sub-Saharan Africa,2004,2003,1,124,409
+MWI,Malawi,Sub-Saharan Africa,2010,2008,1,136,616
+MYS,Malaysia,Other Asia,1987,1988,1,557,2798
+MYS,Malaysia,Other Asia,1992,1993,1,574,3037
+MYS,Malaysia,Other Asia,1997,1998,1,685,3938
+MYS,Malaysia,Other Asia,2004,2003,1,655,2452
+MYS,Malaysia,Other Asia,2009,2008,1,854,4797
+NAM,Namibia,Sub-Saharan Africa,1993,1993,1,107,1761
+NAM,Namibia,Sub-Saharan Africa,2003,2003,1,243,1749
+NER,Niger,Sub-Saharan Africa,1994,1993,1,91,365
+NER,Niger,Sub-Saharan Africa,2007,2008,1,225,633
+NGA,Nigeria,Sub-Saharan Africa,1986,1988,1,136,559
+NGA,Nigeria,Sub-Saharan Africa,1992,1993,1,68,482
+NGA,Nigeria,Sub-Saharan Africa,1996,1998,1,89,472
+NGA,Nigeria,Sub-Saharan Africa,2003,2003,1,97,486
+NGA,Nigeria,Sub-Saharan Africa,2009,2008,1,84,479
+NIC,Nicaragua,L. America & Carib.,1993,1993,1,64,1287
+NIC,Nicaragua,L. America & Carib.,1998,1998,1,149,1566
+NIC,Nicaragua,L. America & Carib.,2005,2003,1,237,1811
+NIC,Nicaragua,L. America & Carib.,2009,2008,1,185,1695
+NLD,Netherlands,Mature economies,1987,1988,1,2652,9574
+NLD,Netherlands,Mature economies,1991,1993,1,3417,12898
+NLD,Netherlands,Mature economies,1998,1998,1,3035,13123
+NLD,Netherlands,Mature economies,2005,2003,1,5560,15895
+NLD,Netherlands,Mature economies,2008,2008,1,5688,15590
+NOR,Norway,Mature economies,1995,1993,1,4986,12821
+NOR,Norway,Mature economies,2000,1998,1,5924,15524
+NOR,Norway,Mature economies,2004,2003,1,6037,17418
+NOR,Norway,Mature economies,2008,2008,1,7259,18630
+NPL,Nepal,Other Asia,1996,1998,1,130,518
+NPL,Nepal,Other Asia,2003,2003,1,188,648
+NPL,Nepal,Other Asia,2010,2008,1,296,817
+NZL,New Zealand,Mature economies,1986,1988,1,306,12046
+NZL,New Zealand,Mature economies,1991,1993,1,238,15347
+NZL,New Zealand,Mature economies,1998,1998,1,2341,10549
+PAK,Pakistan,Other Asia,1987,1988,1,165,453
+PAK,Pakistan,Other Asia,1993,1993,1,329,757
+PAK,Pakistan,Other Asia,1998,1998,1,279,744
+PAK,Pakistan,Other Asia,2004,2003,1,324,789
+PAK,Pakistan,Other Asia,2007,2008,1,344,789
+PAN,Panama,L. America & Carib.,1991,1993,1,36,2579
+PAN,Panama,L. America & Carib.,1997,1998,1,89,3406
+PAN,Panama,L. America & Carib.,2003,2003,1,255,3492
+PAN,Panama,L. America & Carib.,2009,2008,1,406,3224
+PER,Peru,L. America & Carib.,1994,1993,1,170,1959
+PER,Peru,L. America & Carib.,1998,1998,1,217,2494
+PER,Peru,L. America & Carib.,2003,2003,1,324,2697
+PER,Peru,L. America & Carib.,2008,2008,1,403,3006
+PHL,Philippines,Other Asia,1988,1988,1,255,900
+PHL,Philippines,Other Asia,1994,1993,1,256,1001
+PHL,Philippines,Other Asia,1997,1998,1,287,1259
+PHL,Philippines,Other Asia,2003,2003,1,281,1218
+PHL,Philippines,Other Asia,2009,2008,1,322,1244
+PNG,Papua New Guinea,Other Asia,1996,1998,1,197,1039
+POL,Poland,Mature economies,1987,1988,1,1684,4096
+POL,Poland,Mature economies,1992,1993,1,470,2373
+POL,Poland,Mature economies,1999,1998,1,839,3893
+POL,Poland,Mature economies,2004,2003,1,675,4077
+POL,Poland,Mature economies,2008,2008,1,1340,4615
+PRT,Portugal,Mature economies,1989,1988,1,1722,5491
+PRT,Portugal,Mature economies,1994,1993,1,2223,7672
+PRT,Portugal,Mature economies,1998,1998,1,1422,6434
+PRT,Portugal,Mature economies,2005,2003,1,2066,8296
+PRT,Portugal,Mature economies,2008,2008,1,2182,8151
+PRY,Paraguay,L. America & Carib.,1990,1988,1,764,3456
+PRY,Paraguay,L. America & Carib.,1995,1993,1,246,3412
+PRY,Paraguay,L. America & Carib.,1999,1998,1,185,3087
+PRY,Paraguay,L. America & Carib.,2003,2003,1,258,2894
+PRY,Paraguay,L. America & Carib.,2008,2008,1,402,3213
+PSE,West Bank and Gaza,M. East & N. Africa,2009,2008,1,1173,3676
+ROU,Romania,Mature economies,1989,1988,1,1716,4165
+ROU,Romania,Mature economies,1994,1993,1,440,1190
+ROU,Romania,Mature economies,1998,1998,1,675,2225
+ROU,Romania,Mature economies,2008,2008,1,482,2558
+RUS,Russian Federation,"Russia, C. Asia, SE Europe",1993,1993,1,550,3615
+RUS,Russian Federation,"Russia, C. Asia, SE Europe",1999,1998,1,559,2256
+RUS,Russian Federation,"Russia, C. Asia, SE Europe",2003,2003,1,834,3066
+RUS,Russian Federation,"Russia, C. Asia, SE Europe",2008,2008,1,1448,5656
+RWA,Rwanda,Sub-Saharan Africa,2000,1998,1,87,464
+RWA,Rwanda,Sub-Saharan Africa,2005,2003,1,92,507
+RWA,Rwanda,Sub-Saharan Africa,2010,2008,1,128,602
+SDN,Sudan,Sub-Saharan Africa,2009,2008,1,268,979
+SEN,Senegal,Sub-Saharan Africa,1994,1993,1,157,601
+SEN,Senegal,Sub-Saharan Africa,2005,2003,1,204,802
+SGP,Singapore,Mature economies,1993,1993,1,1706,7885
+SGP,Singapore,Mature economies,1998,1998,1,1972,10631
+SGP,Singapore,Mature economies,2003,2003,1,1630,12162
+SGP,Singapore,Mature economies,2008,2008,1,2711,15891
+SLE,Sierra Leone,Sub-Saharan Africa,2003,2003,1,162,614
+SLV,El Salvador,L. America & Carib.,1989,1988,1,87,2075
+SLV,El Salvador,L. America & Carib.,1995,1993,1,259,2329
+SLV,El Salvador,L. America & Carib.,1998,1998,1,90,2358
+SLV,El Salvador,L. America & Carib.,2003,2003,1,138,2381
+SLV,El Salvador,L. America & Carib.,2008,2008,1,407,2574
+SRB,Serbia,"Russia, C. Asia, SE Europe",2003,2003,1,1135,3514
+SRB,Serbia,"Russia, C. Asia, SE Europe",2008,2008,1,1105,2854
+STP,Sao Tome and Principe,Sub-Saharan Africa,2000,1998,1,247,1116
+SUR,Suriname,L. America & Carib.,1999,1998,1,248,2234
+SVK,Slovak Republic,Mature economies,1988,1988,1,2803,5163
+SVK,Slovak Republic,Mature economies,1992,1993,1,2486,4846
+SVK,Slovak Republic,Mature economies,1997,1998,1,1310,4233
+SVK,Slovak Republic,Mature economies,2004,2003,1,1410,4315
+SVK,Slovak Republic,Mature economies,2008,2008,1,1729,4879
+SVN,Slovenia,Mature economies,1987,1988,1,2762,6151
+SVN,Slovenia,Mature economies,1993,1993,1,2647,6668
+SVN,Slovenia,Mature economies,1998,1998,1,3839,14755
+SVN,Slovenia,Mature economies,2002,2003,1,2630,7220
+SVN,Slovenia,Mature economies,2008,2008,1,4468,10331
+SWE,Sweden,Mature economies,1995,1993,1,3658,10737
+SWE,Sweden,Mature economies,2000,1998,1,4423,12355
+SWE,Sweden,Mature economies,2005,2003,1,5359,14044
+SWE,Sweden,Mature economies,2008,2008,1,5262,13865
+SWZ,Swaziland,Sub-Saharan Africa,1994,1993,1,43,413
+SWZ,Swaziland,Sub-Saharan Africa,2000,1998,1,103,566
+SWZ,Swaziland,Sub-Saharan Africa,2009,2008,1,159,958
+SYC,Seychelles,Sub-Saharan Africa,1999,1998,1,1192,5622
+SYC,Seychelles,Sub-Saharan Africa,2006,2008,1,917,5590
+SYR,Syrian Arab Republic,M. East & N. Africa,2004,2003,1,546,1625
+TCD,Chad,Sub-Saharan Africa,2002,2003,1,129,495
+TGO,Togo,Sub-Saharan Africa,2006,2008,1,221,675
+THA,Thailand,Other Asia,1988,1988,1,343,1279
+THA,Thailand,Other Asia,1994,1993,1,457,1808
+THA,Thailand,Other Asia,1998,1998,1,526,1964
+THA,Thailand,Other Asia,2002,2003,1,546,2053
+THA,Thailand,Other Asia,2008,2008,1,705,2526
+TJK,Tajikistan,"Russia, C. Asia, SE Europe",1999,1998,1,177,520
+TJK,Tajikistan,"Russia, C. Asia, SE Europe",2003,2003,1,229,681
+TJK,Tajikistan,"Russia, C. Asia, SE Europe",2009,2008,1,422,1195
+TKM,Turkmenistan,"Russia, C. Asia, SE Europe",1998,1998,1,258,1002
+TKM,Turkmenistan,"Russia, C. Asia, SE Europe",2005,2003,1,524,2479
+TLS,Timor-Leste,Other Asia,2001,2003,1,171,590
+TLS,Timor-Leste,Other Asia,2007,2008,1,267,665
+TTO,Trinidad and Tobago,L. America & Carib.,1988,1988,1,592,3184
+TTO,Trinidad and Tobago,L. America & Carib.,1992,1993,1,463,2235
+TUN,Tunisia,M. East & N. Africa,1990,1988,1,414,1815
+TUN,Tunisia,M. East & N. Africa,1995,1993,1,425,1849
+TUN,Tunisia,M. East & N. Africa,2000,1998,1,534,2189
+TUN,Tunisia,M. East & N. Africa,2005,2003,1,633,2614
+TUR,Turkey,"Russia, C. Asia, SE Europe",1987,1988,1,615,2593
+TUR,Turkey,"Russia, C. Asia, SE Europe",1994,1993,1,555,2446
+TUR,Turkey,"Russia, C. Asia, SE Europe",2000,1998,1,751,3312
+TUR,Turkey,"Russia, C. Asia, SE Europe",2003,2003,1,558,2646
+TUR,Turkey,"Russia, C. Asia, SE Europe",2008,2008,1,773,3666
+TWN,Taiwan,Mature economies,1995,1993,1,3994,10549
+TWN,Taiwan,Mature economies,2000,1998,1,3596,10751
+TWN,Taiwan,Mature economies,2005,2003,1,3804,11092
+TWN,Taiwan,Mature economies,2008,2008,1,4432,11375
+TZA,Tanzania,Sub-Saharan Africa,1993,1993,1,238,829
+TZA,Tanzania,Sub-Saharan Africa,2001,2003,1,97,319
+TZA,Tanzania,Sub-Saharan Africa,2007,2008,1,124,441
+UGA,Uganda,Sub-Saharan Africa,1989,1988,1,85,441
+UGA,Uganda,Sub-Saharan Africa,1992,1993,1,112,455
+UGA,Uganda,Sub-Saharan Africa,1999,1998,1,127,539
+UGA,Uganda,Sub-Saharan Africa,2005,2003,1,164,632
+UGA,Uganda,Sub-Saharan Africa,2009,2008,1,193,820
+UKR,Ukraine,"Russia, C. Asia, SE Europe",1995,1993,1,583,2459
+UKR,Ukraine,"Russia, C. Asia, SE Europe",1999,1998,1,653,1794
+UKR,Ukraine,"Russia, C. Asia, SE Europe",2003,2003,1,910,2144
+UKR,Ukraine,"Russia, C. Asia, SE Europe",2008,2008,1,1582,3888
+URY,Uruguay,L. America & Carib.,1989,1988,1,973,5041
+URY,Uruguay,L. America & Carib.,1992,1993,1,883,4266
+URY,Uruguay,L. America & Carib.,1998,1998,1,1002,5965
+URY,Uruguay,L. America & Carib.,2003,2003,1,737,4029
+URY,Uruguay,L. America & Carib.,2008,2008,1,937,5179
+USA,United States,Mature economies,1986,1988,1,2636,16411
+USA,United States,Mature economies,1991,1993,1,2746,16370
+USA,United States,Mature economies,1997,1998,1,3142,18471
+USA,United States,Mature economies,2004,2003,1,3203,20001
+USA,United States,Mature economies,2008,2008,1,3283,23133
+UZB,Uzbekistan,"Russia, C. Asia, SE Europe",1988,1988,1,203,402
+UZB,Uzbekistan,"Russia, C. Asia, SE Europe",1993,1993,1,69,230
+UZB,Uzbekistan,"Russia, C. Asia, SE Europe",2002,2003,1,184,562
+VEN,"Venezuela, RB",L. America & Carib.,1987,1988,1,506,3830
+VEN,"Venezuela, RB",L. America & Carib.,1992,1993,1,454,2655
+VEN,"Venezuela, RB",L. America & Carib.,1998,1998,1,227,2247
+VEN,"Venezuela, RB",L. America & Carib.,2003,2003,1,111,1496
+VEN,"Venezuela, RB",L. America & Carib.,2006,2008,1,316,2630
+VNM,Vietnam,Other Asia,1992,1993,1,166,481
+VNM,Vietnam,Other Asia,1998,1998,1,213,597
+VNM,Vietnam,Other Asia,2004,2003,1,264,849
+VNM,Vietnam,Other Asia,2008,2008,1,326,1024
+YEM,"Yemen, Rep.",M. East & N. Africa,1998,1998,1,328,1084
+YEM,"Yemen, Rep.",M. East & N. Africa,2005,2003,1,293,1008
+YEM,"Yemen, Rep.",M. East & N. Africa,2008,2008,1,233,778
+ZAF,South Africa,Sub-Saharan Africa,1993,1993,1,258,2063
+ZAF,South Africa,Sub-Saharan Africa,2000,1998,1,235,1838
+ZAF,South Africa,Sub-Saharan Africa,2005,2003,1,335,3131
+ZAF,South Africa,Sub-Saharan Africa,2008,2008,1,361,3081
+ZMB,Zambia,Sub-Saharan Africa,1993,1993,1,54,505
+ZMB,Zambia,Sub-Saharan Africa,1998,1998,1,81,666
+ZMB,Zambia,Sub-Saharan Africa,2002,2003,1,128,493
+ZMB,Zambia,Sub-Saharan Africa,2006,2008,1,74,509
+ZWE,Zimbabwe,Sub-Saharan Africa,1991,1993,1,112,753
+ZWE,Zimbabwe,Sub-Saharan Africa,1996,1998,1,110,552
